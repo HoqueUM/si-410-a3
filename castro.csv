@@ -1,0 +1,8 @@
+Model,Power Consumption (MWh)
+BERT,1.5
+GPT-2,1.7
+Llama 2 13B,74
+Llama 2 70B,688
+LaMDA,451
+PaLM,271.4
+GLaM,40
